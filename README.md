@@ -1,6 +1,5 @@
 # THIS IS MY README FOR MY SHINEY NEW GIT REPO
 
-Lorem sit amet, consectetur adipiscing elit. Nosti, credo, illud: Nemo pius est, qui pietatem-; Duo Reges: constructio interrete. Omnes enim iucundum motum, quo sensus hilaretur.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et harum quidem rerum facilis est et expedita distinctio. Equidem etiam Epicurum, in physicis quidem, Democriteum puto. Illud non continuo, ut aeque incontentae. Aliter homines, aliter philosophos loqui putas oportere? Duo Reges: constructio interrete. Quid de Platone aut de Democrito loquar? Quis hoc dicit?
 
